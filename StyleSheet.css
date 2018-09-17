@@ -12,7 +12,9 @@ button[type="submit"]{
     border: none;
     width: 300px;
 }
-
+.watcher {
+    display:none;
+}
 body {
     color: black;
     background-color: rgb(255, 248, 44);
